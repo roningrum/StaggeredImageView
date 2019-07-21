@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StaggeredImageView</string>
+
+    <array name="cold_image">
+        <item>@drawable/coldplay</item>
+        <item>@drawable/coldplay1</item>
+        <item>@drawable/coldplay2</item>
+        <item>@drawable/coldplay3</item>
+    </array>
+
+    <string-array name="titleDummy">
+        <item>Chris Martin konser</item>
+        <item>Chris Martin Cold Play</item>
+        <item>Chris Martin</item>
+        <item>Chris Martin</item>
+    </string-array>
+</resources>
